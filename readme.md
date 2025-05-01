@@ -1,6 +1,7 @@
 # Instagram Follower Analyzer
 
 A Python script that analyzes your Instagram follower data by comparing your followers to who you're following.
+*** I HAVE PROGRAMMED THE NAMING CONVENTIONS TO MATCH MY USERNAME. IF YOU WANT TO USE THIS DRAG-N-DROP YOUR INSTAGRAM CONNECTIONS ZIP TO THE PYTHON FILE. ***
 
 ## Features
 
