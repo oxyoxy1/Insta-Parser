@@ -3,8 +3,7 @@
 A Python script that analyzes your Instagram follower data by comparing your followers to who you're following.
 <br>
 ## I HAVE PROGRAMMED THE NAMING CONVENTIONS TO MATCH MY USERNAME.
-<br>
-## IF YOU WANT TO USE THIS DRAG-N-DROP YOUR INSTAGRAM CONNECTIONS ZIP TO THE PYTHON FILE.
+IF YOU WANT TO USE THIS DRAG-N-DROP YOUR INSTAGRAM CONNECTIONS ZIP TO THE PYTHON FILE.
 
 ## Features
 
